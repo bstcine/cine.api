@@ -1,8 +1,14 @@
-* 功能: 创建订单
-
 * URL: /api/app/createorder
 
+```
+功能:创建订单
+```
+
+<br>
+
+
 * request
+
 ```
 {
   "token": "cb84Rvnc",
@@ -12,6 +18,8 @@
   "remark": "remark"
 }
 ```
+
+<br>
 
 * response
 ```
