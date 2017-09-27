@@ -1,10 +1,10 @@
 #### app 相关api
-[./app/readme.md](./app/readme.md)
+[./app/README.md](./app/README.md)
 
 
 #### web 相关api
-[./web/readme.md](./web/readme.md)
+[./web/README.md](./web/README.md)
 
 
 #### admin 相关api
-[./admin/readme.md](./admin/readme.md)
+[./admin/README.md](./admin/README.md)
