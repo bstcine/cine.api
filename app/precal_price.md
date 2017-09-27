@@ -1,6 +1,6 @@
 * 功能: 订单预计算
 
-* URL: /api/app/precalprice
+* (GET) URL: /api/app/precalprice
 
 * request
 ```

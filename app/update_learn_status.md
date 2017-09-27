@@ -1,6 +1,6 @@
 * 功能: 更新学习进度，把当前节点标记为 学习中 或 已学完，计算整个课程的学习进度百分比，以及本次最新学到的节点 id
 
-* URL: /api/app/updateLearnStatus/:lesson_id
+* (GET) URL: /api/app/updateLearnStatus/:lesson_id
 
 * request
 ```

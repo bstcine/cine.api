@@ -1,6 +1,6 @@
 * 功能: 邮箱重置密码
 
-* URL: /api/app/resetPassword/email
+* (GET) URL: /api/app/resetPassword/email
 
 * request
 ```

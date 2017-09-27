@@ -1,6 +1,6 @@
 * 功能: 验证邮箱验证码
 
-* URL: /api/app/register/checkEmailCode
+* (GET) URL: /api/app/register/checkEmailCode
 
 * request
 ```

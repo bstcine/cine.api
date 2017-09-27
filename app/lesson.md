@@ -1,6 +1,6 @@
 * 功能: 课程详情
 
-* URL: /api/app/lesson
+* (GET) URL: /api/app/lesson
 
 * request
 ```

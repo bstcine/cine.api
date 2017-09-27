@@ -1,6 +1,6 @@
 * 功能: 我的积分记录
 
-* URL: /api/app/pointrecord
+* (GET) URL: /api/app/pointrecord
 
 * request
 ```

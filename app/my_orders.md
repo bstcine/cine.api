@@ -1,6 +1,6 @@
 * 功能: 订单列表
 
-* URL: /api/app/myorders
+* (GET) URL: /api/app/myorders
 
 * request
 ```

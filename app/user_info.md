@@ -1,6 +1,6 @@
 * 功能: "我的"页面综合接口，包含用户基本信息、未支付数、未使用优惠券数、未分享数、未分享可领取积分
 
-* URL: /api/app/userInfo
+* (GET) URL: /api/app/userInfo
 
 * request
 ```

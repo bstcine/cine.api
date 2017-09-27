@@ -1,6 +1,6 @@
 * 功能: APP 登录
 
-* URL: /api/app/login
+* (GET) URL: /api/app/login
 
 * request
 ```

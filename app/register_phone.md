@@ -1,6 +1,6 @@
 * 功能: 手机号注册
 
-* URL: /api/app/register/phone
+* (GET) URL: /api/app/register/phone
 
 * request
 

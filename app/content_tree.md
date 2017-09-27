@@ -1,6 +1,6 @@
 * 功能: 课程目录
 
-* URL: /api/app/contentTree
+* (GET) URL: /api/app/contentTree
 
 * request
 ```

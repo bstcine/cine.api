@@ -1,6 +1,6 @@
 * 功能: 发送邮箱验证码（注册&重置密码）
 
-* URL: /api/app/register/checkEmail
+* (GET) URL: /api/app/register/checkEmail
 
 * request
 ```

@@ -1,6 +1,6 @@
 * 功能: 课内容
 
-* URL: /api/app/register/phone
+* (GET) URL: /api/app/register/phone
 
 * request
 ```

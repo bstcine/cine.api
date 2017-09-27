@@ -112,7 +112,7 @@
 
 
 * 功能: 上传头像
-* (GET) URL: [/api/app/saveUserPhoto](./save_user_photo.md)
+* URL: [/api/app/saveUserPhoto](./save_user_photo.md)
 
 
 * 功能: 积分规则

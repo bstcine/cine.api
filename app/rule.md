@@ -1,6 +1,6 @@
 * 功能: 积分规则
 
-* URL: /api/app/rule
+* (GET) URL: /api/app/rule
 
 * request
 ```

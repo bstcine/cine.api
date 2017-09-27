@@ -1,7 +1,7 @@
 * 功能:
 APP 发送手机验证码（注册&重置密码）
 
-* URL: /api/app/register/checkPhone
+* (GET) URL: /api/app/register/checkPhone
 
 * request
 ```

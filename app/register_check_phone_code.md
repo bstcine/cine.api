@@ -1,6 +1,6 @@
 * 功能: 验证手机验证码
 
-* URL: /api/app/register/checkPhoneCode
+* (GET) URL: /api/app/register/checkPhoneCode
 
 * request
 ```

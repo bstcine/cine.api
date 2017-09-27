@@ -1,6 +1,6 @@
 * 功能: APP 首页，包括顶部轮播图、课程目录
 
-* URL: /api/app/index
+* (GET) URL: /api/app/index
 
 * request
 ```

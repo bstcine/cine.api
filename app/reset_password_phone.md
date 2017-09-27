@@ -1,6 +1,6 @@
 * 功能: 手机号重置密码
 
-* URL: /api/app/resetPassword/phone
+* (GET) URL: /api/app/resetPassword/phone
 
 * request
 ```

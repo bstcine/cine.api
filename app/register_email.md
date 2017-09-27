@@ -1,6 +1,6 @@
 * 功能: 邮箱注册
 
-* URL: /api/app/register/email
+* (GET) URL: /api/app/register/email
 
 * request
 ```
