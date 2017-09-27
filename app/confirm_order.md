@@ -1,0 +1,122 @@
+* 功能: 确认订单
+
+* URL: /api/app/confirmorder
+
+* request
+```
+{
+  "token": "cb84Rvnc",
+  "lesson_id": "d011453971898316wOnY4sRKIC"
+}
+```
+
+* response
+```
+{
+    "status": true,
+    "is_show_coupon": true,
+    "is_show_point": true,
+    "user": {
+        "id": "466466466",
+        "login": "studavid",
+        "password": null,
+        "nickname": "大卫",
+        "email": "670121373@qq.com",
+        "phone_code": "86",
+        "phone": "17612169975",
+        "role_id": "3",
+        "status": "1",
+        "head_image": "2017/06/02/d0114963866104022gHFgcZ2H4.jpg",
+        "wechat": null,
+        "wx_openid1": null,
+        "wx_openid2": null,
+        "wx_openid3": null,
+        "wx_unionid": null,
+        "create_at": null,
+        "create_by": null,
+        "update_at": "2017-09-25 16:03:52",
+        "update_by": "1",
+        "delete_at": null,
+        "delete_by": null,
+        "surname": "lv",
+        "name": "david",
+        "grade": "一年级",
+        "gender": "2",
+        "language": null,
+        "country": null,
+        "province": null,
+        "city": "上海",
+        "is_need_reset": "0",
+        "is_app_logined": "1",
+        "balance": 0,
+        "point": 159,
+        "agent_id": null
+    },
+    "login": "studavid",
+    "lesson": {
+        "id": "d011453971898316wOnY4sRKIC",
+        "lessoncategory_id": "d011483588421144CvNWznX0pm",
+        "name": "《查理和巧克力工厂》精读课程",
+        "author": "邱巍楠&王天心",
+        "time_arrange": "65课时 (约30分钟/课时)",
+        "feature": "1、高质量视频录播课程，随时随地可以学；</br>\n2、加入微信学习群，专业老师驻群指导答疑；</br>\n3、配套练习，巩固学习效果；</br>\n4、课程永久有效，可以反复学习。",
+        "suit_to": "•  善恩等级 - 3~7年级</br>\n•  AR兴趣等级 - 4~8年级</br>\n•  AR难度等级 - 4~5年级</br>\n•  蓝思指数 - 810",
+        "status": "1",
+        "price": "2980",
+        "img": "2017/07/28/193006695SJcWfVp.jpg",
+        "img_ids": "d0115012414066950vVNgEPmU8,d011501241422366Y00xP1WqKr",
+        "video": null,
+        "is_free": "0",
+        "contents": "",
+        "remark": "<h2>\n\t学习目标\n</h2>\n<p>\n\t1、学习老师纯正的发音，建立基本的英语语感，找到流畅阅读英文原版书的感觉；\n</p>\n<p>\n\t2、掌握3000个左右的词汇和常用短语；\n</p>\n<p>\n\t3、对英文中基本的句法结构(定语从句，状语从句等等)有比较全面的认识和掌握；\n</p>\n<p>\n\t4、提高整体的英文实际运用能力；\n</p>\n<p>\n\t5、学习参照美国CCSS（Common Core State Standards）标准的文学赏析方法和实践\n</p>\n<h2>\n\t原著介绍\n</h2>\n<p>\n\t《查理与巧克力工厂》（Charlie and the Chocolate Factory）是世界奇幻文学大师: 英国作家罗尔德•达尔(Roald Dahl)于1964年所著的儿童文学作品，被誉为21世纪最受欢迎的儿童文学之一。\n</p>\n<p>\n\t故事讲述了家境贫穷的小男孩查理在意外获得了一张金票之后与其它四位金票持有者共同参观Mr. Willy Wonka的巧克力工厂的奇幻过程。除查理之外的四位小孩都骄纵成性, 缺乏自制力和规则意识，在参观过程中违反游戏规则，做了不该做的事情，相继被逐出参观队伍。而查理则是完美小孩的代表——谦恭，仁慈，懂礼貌，他凭借自身宝贵的品质，走到了旅程的最后，并获得了Mr. Willy Wonka赠送的礼物——巧克力工厂的继承权。\n</p>\n<h2>\n\tQ&amp;A\n</h2>\n<p style=\"font-weight:bold;\">\n\tQ：如何使用善恩的在线视频课程呢？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>建议先预习文章，后观看视频课件，并对其中的语言重点和难点做好笔记并经常复习，以温故而知新。建议2.5个月学完整一本书，即10周，寒暑假可适当加快学习进度。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：我通过手机注册购买了视频课程，孩子能用电脑学吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>当然可以了。同一个账号，电脑、手机或者Pad都可以学习的呢。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：本课程对应的原版书有没有电子版可以下载？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>没有。由于版权保护的原因，我们无法提供电子书下载。请购买正版纸质书，可联系善恩小助手（微信号：BSTCINE01）或通过其他途径购买。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：孩子可以自学吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>善恩在线课程讲解非常细致深入，从字、词、句、段落篇章、主题、思想、修饰等方面对原版的英文作品进行高质量精讲视频，即使没有老师的现场陪伴，孩子也可以靠自己的力量读懂一本书。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：在线课程有互动吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>有，有专业老师驻群指导答疑。购买成功后，请联系善恩小助手（微信号：BSTCINE01）加入微信学习群。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：有配套练习题吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>有的。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ： 购买之后，可以退课或者换课吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>不行的哦。由于咱们课程的特殊性，请充分试听之后再购买。如果有任何疑问，可联系我们的客服善恩小助手（微信号：BSTCINE01）哦。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ： 课程可以学习多久呢？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span> 永久有效的哦，可以反复学习。\n</p>\n<h2>\n\t录课老师简介\n</h2>\n<p>\n\t邱巍楠（Nancy）老师首次托福裸考119分，首次SAT考试阅读满分，上海外国语大学英语专业硕士。她是中国SAT培训界内凤毛麟角的英语基本功和教学技巧兼备的明星老师，经她辅导的学生，有超过20人总分达到前1%. 她善于挖掘学生潜力，激发学习热情，鼓励他们成为学习的主动参与者。\n</p>\n<p>\n\t王天心（Aries）老师，美国罗切斯特大学英语教育专业（TESOL）硕士，复旦大学本科。拥有扎实的中文和英文基础，热爱声乐和戏剧表演。作为上海宋庆龄基金会、中福会少年宫中英双语主持人出访过多个国家。希望通过英语学习从不同角度深入拓展学生对于世界以及对于自身的认识和思考。\n</p>",
+        "total_join": 1193,
+        "total_like": 6,
+        "total_view": 0,
+        "seq": 2,
+        "create_at": null,
+        "create_by": null,
+        "update_at": "2017-09-25 00:00:00",
+        "update_by": "1",
+        "delete_at": null,
+        "delete_by": null,
+        "type": "1",
+        "good": 0,
+        "hot": 0,
+        "product_type": "1",
+        "packages": null,
+        "try_contents": "{\"id\":\"d011453971898316wOnY4sRKIC\",\"name\":\"《查理和巧克力工厂》精读课程\",\"children\":[{\"id\":\"d011453974102281GjacW5r7Ms\",\"lesson_id\":\"d011453971898316wOnY4sRKIC\",\"name\":\"Chapter 1. Here Comes Charlie\",\"short_name\":\"Chapter 1\",\"type\":\"1\",\"is_free\":true,\"children\":[{\"id\":\"d0114539858133106WYQVwAuWT\",\"lesson_id\":\"d011453971898316wOnY4sRKIC\",\"name\":\"Lesson 1\",\"short_name\":\"Lesson 1\",\"type\":\"2\",\"is_free\":true,\"duration\":1741}]}]}",
+        "original_price": null,
+        "notice": "本课程共30章，已更新完结",
+        "is_need_remark": "0",
+        "is_show_pc": "1",
+        "is_show_ios": "1",
+        "is_show_android": "1",
+        "is_full": "0",
+        "share_marketing_id": null,
+        "remark_ios": "<h2>\n  原著介绍\n</h2>\n<p>\n《查理与巧克力工厂》（Charlie and the Chocolate Factory）是世界奇幻文学大师: 英国作家罗尔德•达尔(Roald Dahl)于1964年所著的儿童文学作品，被誉为21世纪最受欢迎的儿童文学之一。\n</p>\n\n\n<h2>\n  学习目标\n</h2>\n<p>\n  \t1、学习老师纯正的发音，建立基本的英语语感，找到流畅阅读英文原版书的感觉，\n</p>\n<p>\n\t2、掌握3000个左右的词汇和常用短语；\n</p>\n<p>\n  \t3、对英文中基本的句法结构(定语从句，状语从句等等)有比较全面的认识和掌握；\n</p>\n<p>\n\t4、提高整体的英文实际运用能力。\n</p>\n\n<h2>\n  授课形式\n</h2>\n<p>\n  \t1、微信学习群，专业中教老师指导精读学习\n</p>\n<p>\n\t2、老师每周布置学习任务和课后作业\n</p>\n<h2>\n  学习时长\n</h2>\n<p>\n  \t1、共64课时，可反复学习\n</p>\n<p>\n\t2、2.5个月学完整本书，即10周\n</p>\n\n<h2>\n  学习工具\n</h2>\n<p>\n  \t请购买正版的英文原著纸质书进行阅读学习，同时做学习笔记\n</p>\n\n\n<h2>\n  适用学生\n</h2>\n<p>\n  \t3-7年级（8-12岁）\n</p>",
+        "remark_android": "<h2>\n\t学习目标\n</h2>\n<p>\n\t1、学习老师纯正的发音，建立基本的英语语感，找到流畅阅读英文原版书的感觉；\n</p>\n<p>\n\t2、掌握3000个左右的词汇和常用短语；\n</p>\n<p>\n\t3、对英文中基本的句法结构(定语从句，状语从句等等)有比较全面的认识和掌握；\n</p>\n<p>\n\t4、提高整体的英文实际运用能力；\n</p>\n<p>\n\t5、学习参照美国CCSS（Common Core State Standards）标准的文学赏析方法和实践\n</p>\n<h2>\n\t原著介绍\n</h2>\n<p>\n\t《查理与巧克力工厂》（Charlie and the Chocolate Factory）是世界奇幻文学大师: 英国作家罗尔德•达尔(Roald Dahl)于1964年所著的儿童文学作品，被誉为21世纪最受欢迎的儿童文学之一。\n</p>\n<p>\n\t故事讲述了家境贫穷的小男孩查理在意外获得了一张金票之后与其它四位金票持有者共同参观Mr. Willy Wonka的巧克力工厂的奇幻过程。除查理之外的四位小孩都骄纵成性, 缺乏自制力和规则意识，在参观过程中违反游戏规则，做了不该做的事情，相继被逐出参观队伍。而查理则是完美小孩的代表——谦恭，仁慈，懂礼貌，他凭借自身宝贵的品质，走到了旅程的最后，并获得了Mr. Willy Wonka赠送的礼物——巧克力工厂的继承权。\n</p>\n<h2>\n\tQ&amp;A\n</h2>\n<p style=\"font-weight:bold;\">\n\tQ：如何使用善恩的在线视频课程呢？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>建议先预习文章，后观看视频课件，并对其中的语言重点和难点做好笔记并经常复习，以温故而知新。建议2.5个月学完整一本书，即10周，寒暑假可适当加快学习进度。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：我通过手机注册购买了视频课程，孩子能用电脑学吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>当然可以了。同一个账号，电脑、手机或者Pad都可以学习的呢。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：本课程对应的原版书有没有电子版可以下载？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>没有。由于版权保护的原因，我们无法提供电子书下载。请购买正版纸质书，可联系善恩小助手（微信号：BSTCINE01）或通过其他途径购买。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：孩子可以自学吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>善恩在线课程讲解非常细致深入，从字、词、句、段落篇章、主题、思想、修饰等方面对原版的英文作品进行高质量精讲视频，即使没有老师的现场陪伴，孩子也可以靠自己的力量读懂一本书。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ：在线课程有互动吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>有，有专业老师驻群指导答疑。购买成功后，请联系善恩小助手（微信号：BSTCINE01）加入微信学习群。\n</p>\n<p style=\"font-weight:bold;\">\n\tQ：有配套练习题吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>有的。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ： 购买之后，可以退课或者换课吗？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span>不行的哦。由于咱们课程的特殊性，请充分试听之后再购买。如果有任何疑问，可联系我们的客服善恩小助手（微信号：BSTCINE01）哦。\n</p>\n<br />\n<p style=\"font-weight:bold;\">\n\tQ： 课程可以学习多久呢？\n</p>\n<p>\n\t<span style=\"font-weight:bold;\">A：</span> 永久有效的哦，可以反复学习。\n</p>\n<h2>\n\t录课老师简介\n</h2>\n<p>\n\t邱巍楠（Nancy）老师首次托福裸考119分，首次SAT考试阅读满分，上海外国语大学英语专业硕士。她是中国SAT培训界内凤毛麟角的英语基本功和教学技巧兼备的明星老师，经她辅导的学生，有超过20人总分达到前1%. 她善于挖掘学生潜力，激发学习热情，鼓励他们成为学习的主动参与者。\n</p>\n<p>\n\t王天心（Aries）老师，美国罗切斯特大学英语教育专业（TESOL）硕士，复旦大学本科。拥有扎实的中文和英文基础，热爱声乐和戏剧表演。作为上海宋庆龄基金会、中福会少年宫中英双语主持人出访过多个国家。希望通过英语学习从不同角度深入拓展学生对于世界以及对于自身的认识和思考。\n</p>",
+        "object_type": "1",
+        "related_lesson_id": null,
+        "is_allow_coupon": "1",
+        "is_allow_point": "1",
+        "base_join": 0,
+        "base_like": 0,
+        "base_view": 0,
+        "featured_videos": "http://www.bstcine.com/f/2017/08/15/105522939SZUE9bH.mp4,http://www.bstcine.com/f/2017/08/15/105549667SQn0Nxa.mp4,http://www.bstcine.com/f/2017/08/15/105608886SP9kv7q.mp4,http://www.bstcine.com/f/2017/08/15/105630103SpS1pEP.mp4,http://www.bstcine.com/f/2017/08/15/111447345SEHXvuH.mp4,http://www.bstcine.com/f/2017/08/15/111510774SJDJsvm.mp4",
+        "tag": null,
+        "short_name": "《查理和巧克力工厂》精读课程",
+        "lesson_shareparam_id": "t0115054426931533NMMrRGzBj",
+        "pay_shareparam_id": "t0115054425936223t2uUvXmkv",
+        "learn_shareparam_id": "t0115054424733649xgtSWCBXj",
+        "share_h5_desc": "我正在参加善恩英语的{#content_name#}，\n已经坚持了{#seriesDuration#}天！",
+        "share_h5_img": "http://apptest.bstcine.com/f/2017/09/15/1751070S88t0Mn.png"
+    },
+    "calPrice": {
+        "total_price": "2980",
+        "discount_price": 0,
+        "price": "2980",
+        "pay_price": "2980"
+    },
+    "pointConvertConstant": "1"
+}
+```
