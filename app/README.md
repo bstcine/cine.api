@@ -138,12 +138,4 @@
 * (GET) URL: [/api/app/appshare](./app_share.md)
 
 
-* 功能: 历史订单分享提醒
-* (GET) URL: [/api/app/remindunshareorder](./remind_unshare_order.md)
-
-
-* 功能: APP 分享提醒
-* (GET) URL: [/api/app/remindappshare](./remind_app_share.md)
-
-
 
