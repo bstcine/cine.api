@@ -124,24 +124,29 @@
 ## 个人中心
 
 
-* 功能: "我的"页面综合接口，包含用户基本信息、未支付数、未使用优惠券数、未分享数、未分享可领取积分
-* (GET) URL: [/api/app/userInfo](./user_info.md)
+*  "我的"页面综合接口，包含用户基本信息、未支付数、未使用优惠券数、未分享数、未分享可领取积分
+
+(GET) [/api/app/userInfo](./user_info.md)
 
 <br>
-* 功能: 我的积分记录
-* (GET) URL: [/api/app/pointrecord](./point_record.md)
+*  我的积分记录
+
+(GET) [/api/app/pointrecord](./point_record.md)
 
 <br>
-* 功能: 修改用户信息
-* URL: [/api/app/saveUserInfo](./save_user_info.md)
+*  修改用户信息
+
+ [/api/app/saveUserInfo](./save_user_info.md)
 
 <br>
-* 功能: 上传头像
-* URL: [/api/app/saveUserPhoto](./save_user_photo.md)
+*  上传头像
+
+ [/api/app/saveUserPhoto](./save_user_photo.md)
 
 <br>
-* 功能: 积分规则
-* (GET) URL: [/api/app/rule](./rule.md)
+*  积分规则
+
+(GET) [/api/app/rule](./rule.md)
 
 
 <br>
@@ -149,20 +154,24 @@
 ## 分享
 
 
-* 功能: 课程分享
-* (GET) URL: [/api/app/addsharelog](./add_share_log.md)
+* 课程分享
+
+ (GET) [/api/app/addsharelog](./add_share_log.md)
 
 <br>
-* 功能: 更新分享状态
-* (GET) URL: [/api/app/updatesharelog](./update_share_log.md)
+*  更新分享状态
+
+(GET) [/api/app/updatesharelog](./update_share_log.md)
 
 <br>
-* 功能: 打卡分享
-* (GET) URL: [/api/app/learnshare](./learn_share.md)
+*  打卡分享
+
+(GET) [/api/app/learnshare](./learn_share.md)
 
 <br>
-* 功能: 一键分享 APP
-* (GET) URL: [/api/app/appshare](./app_share.md)
+*  一键分享 APP
+
+(GET) [/api/app/appshare](./app_share.md)
 
 
 
