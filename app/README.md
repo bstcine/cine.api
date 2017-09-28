@@ -5,7 +5,6 @@
   (GET) [/api/app/login](./login.md)
 
 <br>
-
 * 发送手机验证码（注册&重置密码），检查手机号是否注册
 (GET)  [/api/app/register/checkPhone](./register_check_phone.md)  
  
