@@ -1,70 +1,70 @@
-#### 注册/登录
+## 注册/登录
 
-* 功能: 登录
-* (GET) URL: [/api/app/login](./login.md)
-
-
-* 功能: 发送手机验证码（注册&重置密码），检查手机号是否注册
-* (GET) URL: [/api/app/register/checkPhone](./register_check_phone.md)    
+*  登录 
+  (GET) [/api/app/login](./login.md)
 
 
-* 功能: 验证手机验证码
-* (GET) URL: [/api/app/register/checkPhoneCode](./register_check_phone_code.md)
+* 发送手机验证码（注册&重置密码），检查手机号是否注册
+(GET)  [/api/app/register/checkPhone](./register_check_phone.md)  
+ 
+
+*  验证手机验证码
+ (GET)   [/api/app/register/checkPhoneCode](./register_check_phone_code.md)
 
 
-* 功能: 发送手机验证码，直接发，不检查手机号在系统中注册情况
-* (GET) URL: [/api/app/register/sendPhoneCode](./register_send_phone_code.md)
+* 发送手机验证码，直接发，不检查手机号在系统中注册情况
+ (GET) URL: [/api/app/register/sendPhoneCode](./register_send_phone_code.md)
 
 
-* 功能: 手机号注册
-* (GET) URL: [/api/app/register/phone](./register_phone.md)
+* 手机号注册
+ (GET) URL: [/api/app/register/phone](./register_phone.md)
 
 
-* 功能: 手机号重置密码
-* (GET) URL: [/api/app/resetPassword/phone](./reset_password_phone.md)
+* 手机号重置密码
+ (GET) URL: [/api/app/resetPassword/phone](./reset_password_phone.md)
 
 
-* 功能: 发送邮箱验证码（注册&重置密码）
-* (GET) URL: [/api/app/register/checkEmail](./register_check_email.md)
+* 发送邮箱验证码（注册&重置密码）
+ (GET) URL: [/api/app/register/checkEmail](./register_check_email.md)
 
 
-* 功能: 验证邮箱验证码
-* (GET) URL: [/api/app/register/checkEmailCode](./register_check_email_code.md)
+*  验证邮箱验证码
+ (GET) URL: [/api/app/register/checkEmailCode](./register_check_email_code.md)
 
 
-* 功能: 发送邮箱验证码，直接发，不检查邮箱在系统中注册情况
-* (GET) URL: [/api/app/register/sendEmailCode](./register_send_email_code.md)
+* 发送邮箱验证码，直接发，不检查邮箱在系统中注册情况
+(GET) URL: [/api/app/register/sendEmailCode](./register_send_email_code.md)
 
 
-* 功能: 邮箱注册
-* (GET) URL: [/api/app/register/email](./register_email.md)
+*  邮箱注册
+ (GET) URL: [/api/app/register/email](./register_email.md)
 
 
-* 功能: 邮箱重置密码
-* (GET) URL: [/api/app/resetPassword/email](./reset_password_email.md)
+*  邮箱重置密码
+ (GET) URL: [/api/app/resetPassword/email](./reset_password_email.md)
+
+<br>
+
+## 课程 
+
+*  APP 首页，包括顶部轮播图、课程目录
+ (GET) URL: [/api/app/index](./index.md)
 
 
-
-#### 课程 
-
-* 功能: APP 首页，包括顶部轮播图、课程目录
-* (GET) URL: [/api/app/index](./index.md)
+* 课程详情
+ (GET) URL: [/api/app/lesson](./lesson.md)
 
 
-* 功能: 课程详情
-* (GET) URL: [/api/app/lesson](./lesson.md)
+* 课程目录
+ (GET) URL: [/api/app/contentTree](./content_tree.md)
 
 
-* 功能: 课程目录
-* (GET) URL: [/api/app/contentTree](./content_tree.md)
+*  课内容
+ (GET) URL: [/api/app/content](./content.md)
 
 
-* 功能: 课内容
-* (GET) URL: [/api/app/content](./content.md)
-
-
-* 功能: 更新学习进度，把当前节点标记为 学习中 或 已学完，计算整个课程的学习进度百分比，以及本次最新学到的节点 id
-* (GET) URL: [/api/app/updateLearnStatus/:lesson_id](./update_learn_status.md)
+* 更新学习进度，把当前节点标记为 学习中 或 已学完，计算整个课程的学习进度百分比，以及本次最新学到的节点 id
+ (GET) URL: [/api/app/updateLearnStatus/:lesson_id](./update_learn_status.md)
 
 
 
