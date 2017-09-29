@@ -11,21 +11,25 @@
 (GET)  [/api/app/register/checkPhone](./register_check_phone.md)  
  
 <br>
+
 *  验证手机验证码
 
  (GET)   [/api/app/register/checkPhoneCode](./register_check_phone_code.md)
 
 <br>
+
 *  发送手机验证码，直接发，不检查手机号在系统中注册情况
 
  (GET)  [/api/app/register/sendPhoneCode](./register_send_phone_code.md)
 
 <br>
+
 *  手机号注册
 
  (GET)  [/api/app/register/phone](./register_phone.md)
 
 <br>
+
 *  手机号重置密码
 
  (GET) [/api/app/resetPassword/phone](./reset_password_phone.md)
