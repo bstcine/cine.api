@@ -1,11 +1,13 @@
-* 功能: APP 登录
-
 * (GET) URL: /api/app/login
+
+<br>
 
 * request
 ```
 http://apptest.bstcine.com/api/app/login?phone=studavid&password=123&phone_code=86&device_uid=BC452AB3-AEF3-4082-9ABF-179E47AB2070&device
 ```
+
+<br>
 
 * response
 ```
