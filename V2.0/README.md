@@ -12,5 +12,5 @@
 * URL: [/api/content/lesson/detail](./lessin_detail.md)
 
 
-* 功能: 学习页
+* 功能: 学习列表
 * URL: [/api/content/course/list](./course_list.md)
