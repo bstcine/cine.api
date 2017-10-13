@@ -1,4 +1,4 @@
-* 功能: APP 首页，包括顶部轮播图、课程目录
+* 功能: 课内容
 
 * URL: /api/content/lesson/detail
 
