@@ -11,7 +11,7 @@
     "locale": "zh_CN",
     "appver": "1.1.3",
     "data":{
-      "lesson_id":42
+      "cid":42
     }
 }
 ```
