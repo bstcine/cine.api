@@ -13,4 +13,4 @@
 
 
 * 功能: 学习页
-* URL: [/api/content/learn](./learn.md)
+* URL: [/api/content/course/list](./course_list.md)
