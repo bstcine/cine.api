@@ -10,7 +10,7 @@
     "channel": "i5", 
     "locale": "zh_CN",
     "appver": "1.1.3",
-    "data":""
+    "data":{}
 }
 ```
 
