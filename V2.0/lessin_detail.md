@@ -11,7 +11,7 @@
     "locale": "zh_CN",
     "appver": "1.1.3",
     "data":{
-      "content_id":1315
+      "cid":1315
     }
 }
 ```
