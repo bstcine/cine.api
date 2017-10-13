@@ -1,6 +1,6 @@
-* 功能: 学习列表
+* 功能: 我的学习列表
 
-* URL: /api/content/course/list
+* URL: /api/content/course/mylist
 
 * request
 ```
