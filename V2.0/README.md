@@ -13,4 +13,4 @@
 
 
 * 功能: 学习列表
-* URL: [/api/content/course/mylist](./course_list.md)
+* URL: [/api/content/course/mylist](./course_mylist.md)
