@@ -16,7 +16,7 @@
   - V2: [/api/user/content/course/list](./course_mylist.md)
   
 - 功能: 某课程的Chapter目录
-  - V2:  [/api/content/chapter/list](./chapter_list.md) 
+  - V2: [/api/content/chapter/list](./chapter_list.md)
   - - `including chapter & lesson & submedia`
 
 
