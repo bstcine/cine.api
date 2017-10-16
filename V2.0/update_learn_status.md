@@ -21,8 +21,8 @@
 }
 ```
 
-* response
-    - 正确token返回
+* 正确token response
+   ``` 
     {
         "code": "1",
         "code_desc": "success",
@@ -30,12 +30,16 @@
         "except_case_desc": "",
         "result": ""
     }
-    - 错误token response
+    ```
+* 错误token response
+``` 
     {
         "code": "1",
         "code_desc": "success",
         "except_case": "",
         "except_case_desc": "no_login"
     }
+```
+* 参数异常 response
     - token为空 response except_case_desc值为token_is_null
     - cid、content_id为空时，response except_case_desc值为param_is_null
