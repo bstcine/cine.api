@@ -71,8 +71,7 @@
 }
 ```
 * 说明：token为空返回值中课程对应的pay_status的值为0，正确token返回值中该token用户已购买的课程对应的pay_status的值为1
-<br>
-* 错误token返回值示例
+* 错误token response
 ```
 {
     "code": "1",
