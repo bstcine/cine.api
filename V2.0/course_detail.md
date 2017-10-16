@@ -131,9 +131,10 @@
     }
 }
 ```
-- 说明：token为空和正确的token返回值中is_paid、can_learn的值不同
+* 说明：token为空和正确的token返回值中is_paid、can_learn的值不同
 <br>
-- 错误token返回值示例
+* 错误token返回值示例
+<br>
 ```
 {
     "code": "1",
