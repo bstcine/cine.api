@@ -6,21 +6,25 @@
   
 <br>
 
+- 手机号注册
+
+<br>
+
 *  发送手机验证码（注册&重置密码），检查手机号是否注册
 
 > (GET)  [/api/app/register/checkPhone](./register_check_phone.md)  
  
 <br>
 
-*  验证手机验证码
-
- (GET)   [/api/app/register/checkPhoneCode](./register_check_phone_code.md)
-
-<br>
-
 *  发送手机验证码，直接发，不检查手机号在系统中注册情况
 
  (GET)  [/api/app/register/sendPhoneCode](./register_send_phone_code.md)
+
+<br>
+
+*  验证手机验证码
+
+ (GET)   [/api/app/register/checkPhoneCode](./register_check_phone_code.md)
 
 <br>
 
@@ -30,16 +34,25 @@
 
 <br>
 
-*  手机号重置密码
+- 手机号重置密码
 
+*  检查手机号是否存在注册（同注册）
+
+*  发送重置验证码（同注册）
+
+*  验证验证码（同注册）
+
+*  手机号重置密码
  (GET) [/api/app/resetPassword/phone](./reset_password_phone.md)
 
 <br>
+
 *  发送邮箱验证码（注册&重置密码）
 
  (GET) [/api/app/register/checkEmail](./register_check_email.md)
 
 <br>
+
 *  验证邮箱验证码
 
  (GET) [/api/app/register/checkEmailCode](./register_check_email_code.md)
@@ -177,6 +190,5 @@
 *  一键分享 APP
 
 (GET) [/api/app/appshare](./app_share.md)
-
 
 
