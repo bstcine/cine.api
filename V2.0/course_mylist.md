@@ -1,6 +1,6 @@
 * 功能: 我的学习列表
 
-* URL: /api/content/course/mylist
+* URL: /api/user/content/course/list
 
 * request
 ```
@@ -22,9 +22,6 @@
     "except_case": "",
     "except_case_desc": "",
     "result": {
-        "cur_page": "",
-        "max_page": "",
-        "total_rows": "",
         "rows": [
             {
                 "id": "A011472527975665L94hXeJDmJ",
