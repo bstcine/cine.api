@@ -1,7 +1,10 @@
 ## 注册/登录 （/api/auth/)
+<br>
 
 #### 登录
- 
+<br>
+
+* 点击登录按钮
 (GET) [/api/app/login](./login.md)  
   
 <br>
@@ -10,24 +13,28 @@
 <br>
 
 *  发送手机验证码（注册&重置密码），检查手机号是否注册
+*  点击注册页面下一步，检查成功弹出窗口提示
 
 > (GET)  [/api/app/register/checkPhone](./register_check_phone.md)  
  
 <br>
 
 *  发送手机验证码，直接发，不检查手机号在系统中注册情况
+*  点击弹窗中的确定按钮
 
  (GET)  [/api/app/register/sendPhoneCode](./register_send_phone_code.md)
 
 <br>
 
 *  验证手机验证码
+*  在验证界面，正确输入收到的验证码后，点击下一步
 
  (GET)   [/api/app/register/checkPhoneCode](./register_check_phone_code.md)
 
 <br>
 
 *  手机号注册
+*  在设置密码页面，输入密码，点击下一步按钮
 
  (GET)  [/api/app/register/phone](./register_phone.md)
 
@@ -43,9 +50,11 @@
 *  验证验证码（同注册）
 
 *  手机号重置密码
+*  在重置密码界面，输入新密码，点击下一步按钮
  (GET) [/api/app/resetPassword/phone](./reset_password_phone.md)
 
 <br>
+
 
 *  发送邮箱验证码（注册&重置密码）
 
