@@ -23,5 +23,5 @@
 - 功能: 课内容
   - V2: [/api/content/lesson/detail](./lessin_detail.md)
 
-- 功能: 更新课程de学习进度
+- 功能: 更新课程的学习进度
   - V2: [/api/user/content/course/updateLearnStatus](./update_learn_status.md)
