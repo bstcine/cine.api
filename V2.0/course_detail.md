@@ -130,6 +130,7 @@
         }
     }
 }
+```
 - 说明：token为空和正确的token返回值中is_paid、can_learn的值不同
 <br>
 - 错误token返回值示例
@@ -139,4 +140,3 @@
     "except_case": "",
     "except_case_desc": "no_login"
 }
-```
