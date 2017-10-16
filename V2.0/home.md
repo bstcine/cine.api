@@ -1,6 +1,6 @@
 * 功能: APP 首页，包括顶部轮播图、课程目录
 
-* URL: /api/app/home
+* URL: /api/content/home
 
 * request
 ```
@@ -22,7 +22,7 @@
     "except_case": "",
     "except_case_desc": "",
     "result": {
-        "lessoncategorys": [
+        "categorys": [
             {
                 "id": "d011495787003995KQ847j7eGV",
                 "name": "热推新品",
@@ -58,7 +58,7 @@
             },
             ...
         ],
-        "lunboImages": [
+        "banners": [
             {
                 "lesson_id": "A011481685662619HkztzzwvxT",
                 "name": "《小王子》上册精读课程",
