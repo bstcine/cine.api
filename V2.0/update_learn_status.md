@@ -22,7 +22,7 @@
 ```
 
 * response
-  -正确token返回
+    - 正确token返回
 ```
 {
     "code": "1",
@@ -31,9 +31,8 @@
     "except_case_desc": "",
     "result": ""
 }
-```
-          
-   - 错误token response
+```     
+    - 错误token response
 ```
 {
     "code": "1",
@@ -42,5 +41,5 @@
     "except_case_desc": "no_login"
 }
 ```
-   - token为空 response except_case_desc值为token_is_null
-   - cid、content_id为空时，response except_case_desc值为param_is_null
+    - token为空 response except_case_desc值为token_is_null
+    - cid、content_id为空时，response except_case_desc值为param_is_null
