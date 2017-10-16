@@ -18,8 +18,9 @@
 - 功能: 某课程的Chapter目录
   - V2:  /api/content/chapter/list
   ```
-   包含： Chapter - Lesson - SubMedia
-  ```
+  Including chapter & lesson & submedia
+  ```
+
 
 - 功能: 课内容
   - V2: [/api/content/lesson/detail](./lessin_detail.md)
