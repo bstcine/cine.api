@@ -18,7 +18,7 @@
 
 - 功能: 某课程的Chapter目录
   - V2: [/api/content/chapter/list](./chapter_list.md)
-  - V2: /api/content/chapter/listWithMedia
+  - V2: [/api/content/chapter/listWithMedia](./listWithMedia.md)
 
 
 - 功能: 课内容
