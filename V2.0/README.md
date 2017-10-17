@@ -3,8 +3,7 @@
 - 功能: APP 首页，包括顶部轮播图、课程目录
   - V2: [/api/content/home](./home.md)
   ```
-  lessoncategorys -> categorys
-  lunboImages  - > banners
+  
   ```
 
 
@@ -12,12 +11,14 @@
   - V2: [/api/content/course/detail](./course_detail.md)
   
 
+
 - 功能: 我的学习列表
   - V2: [/api/user/content/course/list](./course_mylist.md)
-  
+
+
 - 功能: 某课程的Chapter目录
   - V2: [/api/content/chapter/list](./chapter_list.md)
-  - - `including chapter & lesson & submedia`
+  - V2: /api/content/chapter/listWithMedia
 
 
 - 功能: 课内容
