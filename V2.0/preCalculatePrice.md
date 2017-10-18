@@ -67,3 +67,4 @@
  coupon_in_use|优惠券使用中
  order_already_paid|订单已支付
  related_lesson_required|写作课程请先购买对应的视频课程
+ point_too_large|当前积分已超出应付金额
