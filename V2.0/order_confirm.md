@@ -1,4 +1,4 @@
-* 功能: 创建订单
+* 功能: 确认订单
 
 * URL: /api/order/confirm
 
@@ -10,7 +10,7 @@
     "channel": "i5", 
     "locale": "zh_CN",
     "appver": "1.1.3",
-    "data":{  point,coupon_no,source_id,remark为可选参数
+    "data":{  
       "cid":"A011466215703591WQYDRNlWxH"
     }
 }
