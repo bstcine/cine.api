@@ -2,9 +2,7 @@
 
 - 功能: APP 首页，包括顶部轮播图、课程目录
   - V2: [/api/content/home](./home.md)
-  ```
-  
-  ```
+ 
 
 
 - 功能: 课程详情
@@ -26,12 +24,7 @@
 
 - 功能: 更新课程的学习进度
   - V2: [/api/user/content/course/updateLearnStatus](./update_learn_status.md)
-  ```
-  content_id -> lesson_id
   
-   "result": {"status": "success"}
-  ```
-
 
 ## 2.2 订单 部分
 - 功能: 订单预计算
