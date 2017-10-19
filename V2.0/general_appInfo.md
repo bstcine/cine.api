@@ -5,7 +5,7 @@
 * request
 ```
 {
-    "token":"8xXHCySK",
+    "token":"",
     "sitecode": "cine.ios.iphone",
     "channel": "i5", 
     "locale": "zh_CN",
