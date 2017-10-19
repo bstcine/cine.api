@@ -1,6 +1,6 @@
 * 功能: 我的订单列表
 
-* URL: /api/order/mylist
+* URL: /api/user/order/list
 
 * request
 ```
