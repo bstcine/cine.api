@@ -44,7 +44,7 @@
   
   
 - 功能: 我的订单列表
-  - V2: [/api/order/mylist](./order_mylist.md)
+  - V2: [/api/user/order/list](./order_mylist.md)
   
   
 - 功能: 订单详情
