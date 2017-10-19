@@ -53,5 +53,5 @@
   
 ## 2.0 其它 部分
 - 功能：获得app信息
-  - V2:[/api/general/appInfo](./general_appInfo.md)
+  - V2: [/api/review/general/appInfo](./general_appInfo.md)
    
