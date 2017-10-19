@@ -51,5 +51,7 @@
   - V2: [/api/order/detail](./order_detail.md)
   
   
-
-   
+## 2.0 其它 部分
+- 功能：获得app信息
+  - V2:[/api/general/appInfo](./general_appInfo.md)
+   
