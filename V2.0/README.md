@@ -52,23 +52,23 @@
   
 
 - 功能: 微信app支付
-  - V2: [/api/app/pay/wechat]
+  - V2: /api/app/pay/wechat
   
   
 - 功能: 微信web支付
-  - V2: [api/pay/wechat/qrpay]
+  - V2: api/pay/wechat/qrpay
  
  
 - 功能: 支付宝支付
-  - V2: [api/app/pay/alipay]
+  - V2: api/app/pay/alipay
  
  
 - 功能: 支付宝web支付
-  - V2: [api/pay/alipay]
+  - V2: api/pay/alipay
   
 
 - 功能: 获取支付状态
-  - V2: [api/pay/order/status]
+  - V2: api/pay/order/status
   
 ## 2.0 其它 部分
 - 功能：获得app信息
