@@ -11,8 +11,8 @@
     "locale": "zh_CN",
     "appver": "1.1.3",
     "data":{
-      "cid":42
-    }
+      "cid":42  //course_id      
+    }
 }
 ```
 
