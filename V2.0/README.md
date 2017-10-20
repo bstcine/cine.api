@@ -34,10 +34,10 @@
 - 功能: 创建订单
   - V2: [/api/order/create](./order_create.md)
   
-  
-- 功能: 确认订单
-  - V2: [/api/order/confirm](./order_confirm.md)
-  
+
+- 功能: 准备创建订单所需信息
+  - V2: [/api/order/preInformation](./order_confirm.md)  
+  
   
 - 功能: 取消订单
   - V2: [/api/order/cancel](./order_cancel.md)
@@ -50,6 +50,25 @@
 - 功能: 订单详情
   - V2: [/api/order/detail](./order_detail.md)
   
+
+- 功能: 微信app支付
+  - V2: [/api/app/pay/wechat]
+  
+  
+- 功能: 微信web支付
+  - V2: [api/pay/wechat/qrpay]
+ 
+ 
+- 功能: 支付宝支付
+  - V2: [api/app/pay/alipay]
+ 
+ 
+- 功能: 支付宝web支付
+  - V2: [api/pay/alipay]
+  
+
+- 功能: 获取支付状态
+  - V2: [api/pay/order/status]
   
 ## 2.0 其它 部分
 - 功能：获得app信息
