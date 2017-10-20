@@ -11,9 +11,9 @@
     "locale": "zh_CN",
     "appver": "1.1.3",
     "data":{
-      "cid":"42",
-      "filter":["A011467016381932vY8AtkQpvq"]
-    }
+      "cid":"42",//course_id 
+      "filter":["A011467016381932vY8AtkQpvq","xxxxxxaaaaxxx",....]  //lesson_id,可选参数，为空时返回所有lesson的medias,传入lesson_id时仅显示对应lesson的medias
+    }
 }
 ```
 
