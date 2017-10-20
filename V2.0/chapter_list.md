@@ -11,8 +11,8 @@
     "locale": "zh_CN",
     "appver": "1.1.3",
     "data":{
-      "cid":"A0114655235938391eWYkAGPbk"  
-    }
+      "cid":"A0114655235938391eWYkAGPbk" //course_id  
+    }
 }
 ```
 
