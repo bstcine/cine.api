@@ -1,4 +1,4 @@
-* 功能: 获取订单状态
+* 功能: 微信app支付
 
 * URL: /api/pay/wechat
 
