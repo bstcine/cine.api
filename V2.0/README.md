@@ -60,7 +60,7 @@
   
  
 - 功能: 支付宝app支付
-  - V2: [/api/app/pay/ali](./pay_alipay.md)
+  - V2: [/api/pay/ali](./pay_alipay.md)
  
  
 - 功能: 支付宝二维码支付
