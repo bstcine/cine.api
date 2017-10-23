@@ -52,24 +52,22 @@
   
 
 - 功能: 微信app支付
-  - V2: /api/app/pay/wechat
+  - V2: [/api/app/pay/wechat](./pay_wechat.md)
   
   
-- 功能: 微信web支付
-  - V2: api/pay/wechat/qrpay
+- 功能: 微信二维码支付
+  - V2: [/api/pay/wechat/QRcode](./pay_QRcode.md) 
+ 
+- 功能: 支付宝app支付
+    - V2: [/api/app/pay/ali](./pay_alipay.md) 
  
  
-- 功能: 支付宝支付
-  - V2: api/app/pay/alipay
- 
- 
-- 功能: 支付宝web支付
-  - V2: api/pay/alipay
+- 功能: 支付宝二维码支付
+  - V2: [/ api/pay/alipay/QRcode](./order_status.md) 
   
 
 - 功能: 获取支付状态
-  - V2: api/pay/order/status
-  
+  - V2: [/api/pay/order/status](./pay_QRcode.md)   
 ## 2.0 其它 部分
 - 功能：获得app信息
   - V2: [/api/review/general/appInfo](./general_appInfo.md)
