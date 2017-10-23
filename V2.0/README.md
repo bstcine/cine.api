@@ -52,7 +52,7 @@
   
 
 - 功能: 微信app支付
-  - V2: [/api/app/pay/wechat](./pay_wechat.md)
+  - V2: [/api/pay/wechat](./pay_wechat.md)
   
   
 - 功能: 微信二维码支付
