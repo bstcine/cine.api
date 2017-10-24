@@ -35,8 +35,8 @@
   - V2: [/api/order/create](./order_create.md)
   
 
-- 功能: 准备创建订单所需信息
-  - V2: [/api/order/preInformation](./order_confirm.md)  
+- 功能: 预先准备订单
+  - V2: [/api/order/prepare](./order_confirm.md)  
   
   
 - 功能: 取消订单
@@ -70,6 +70,6 @@
 - 功能: 获取支付状态
   - V2: [/api/pay/order/status](./order_status.md) 
 ## 2.0 其它 部分
-- 功能：获得app信息
-  - V2: [/api/review/general/appInfo](./general_appInfo.md)
+- 功能：获得app审核信息
+  - V2: [/api/review/version/info](./general_appInfo.md)
    
