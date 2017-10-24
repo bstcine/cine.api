@@ -1,6 +1,6 @@
-* 功能: 获取App信息
+* 功能: 获取App审核信息
 
-* URL: /api/rewview/general/appInfo
+* URL: /api/review/version/info
 
 * request
 ```
