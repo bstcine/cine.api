@@ -1,6 +1,6 @@
-* 功能: 确认订单
+* 功能: 预先准备订单
 
-* URL: /api/order/confirm
+* URL: /api/order/prepare
 
 * request
 ```
