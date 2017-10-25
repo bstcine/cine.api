@@ -69,6 +69,15 @@
 
 - 功能: 获取支付状态
   - V2: [/api/pay/order/status](./order_status.md) 
+  
+## 2.3 权限 部分
+- 功能: 登录
+  - V2: [/api/auth/signin](./Auth_signin.md) 
+
+## 2.4 个人中心 部分  
+- 功能: 用户信息
+  - V2: [/api/user/info](./userInfo.md) 
+
 ## 2.0 其它 部分
 - 功能：获得app审核信息
   - V2: [/api/review/version/info](./general_appInfo.md)
