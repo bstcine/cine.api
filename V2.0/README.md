@@ -72,11 +72,11 @@
   
 ## 2.3 权限 部分
 - 功能: 登录
-  - V2: [/api/auth/signin](./Auth_signin.md) 
+  - V2: [/api/auth/signin](./Auth_singnin.md) 
 
 ## 2.4 个人中心 部分  
 - 功能: 用户信息
-  - V2: [/api/user/info](./userInfo.md) 
+  - V2: [/api/user/info](./userInfo.md)
 
 ## 2.0 其它 部分
 - 功能：获得app审核信息
