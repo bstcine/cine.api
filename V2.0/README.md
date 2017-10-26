@@ -64,7 +64,7 @@
  
  
 - 功能: 支付宝二维码支付
-  - V2: [/ api/pay/alipay/QRcode](./pay_QRcode.md)
+  - V2: [/api/pay/ali/QRcode](./pay_QRcode.md)
   
 
 - 功能: 获取支付状态
