@@ -93,3 +93,5 @@
 }
 ```
 * token为空 response 中没有learn_status、lessonlearndetail_id、last_tag、last_position
+
+备注： 关于 type 字段的疑惑，为何会有 1、2、html、video 等不同，请给出该字段的释义，如果是枚举值请列出详细参考值。
