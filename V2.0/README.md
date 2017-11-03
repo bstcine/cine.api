@@ -77,8 +77,29 @@
 ## 2.4 个人中心 部分  
 - 功能: 用户信息
   - V2: [/api/user/info](./userInfo.md)
+  
+- 功能: 修改用户信息
+  - V2: [/api/user/profile/modify](./user_modify.md)
+
+- 功能: 修改用户头像
+  - V2: [/api/user/profile/modifyPhoto](./user_modify_photo.md)
+  
+- 功能: 我的积分列表
+  - V2: [/api/user/integral/list](./user_integrallist.md)
+  
+- 功能: 我的优惠券列表
+  - V2: [/api/user/coupon/list](./user_coupon_list.md)
+  
+- 功能: 我的可用优惠券列表
+  - V2: [/api/user/coupon/activeList](./user_active_coupon_list.md)
+  
+- 功能: 添加优惠券
+  - V2: [/api/user/coupon/add](./user_add_coupon.md)
 
 ## 2.0 其它 部分
 - 功能：获得app审核信息
   - V2: [/api/review/version/info](./general_appInfo.md)
    
+- 功能: 积分规则
+  - V2: [/api/global/integral/rule](./integral_rule.md)
+  
