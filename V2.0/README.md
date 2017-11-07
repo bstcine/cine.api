@@ -24,6 +24,9 @@
 
 - 功能: 更新课程的学习进度
   - V2: [/api/user/content/course/updateLearnStatus](./update_learn_status.md)
+
+- 功能: 首页搜索
+  - V2: [/api/content/home/search](./content_search.md)
   
 
 ## 2.2 订单 部分
@@ -95,6 +98,22 @@
   
 - 功能: 添加优惠券
   - V2: [/api/user/coupon/add](./user_add_coupon.md)
+
+## 2.5 分享 部分 
+- 功能: app分享
+  - V2: [/api/share/app](./share_app.md)
+
+- 功能: 打卡分享
+  - V2: [/api/share/course/learn](./share_learn.md)
+
+- 功能: 课程分享&购买成功后分享
+  - V2: [/api/share/coursePackage](./share_course.md)
+
+- 功能: 更新分享状态
+  - V2: [/api/share/updateStatus](./share_updatestatus.md)
+
+- 功能: 查看分享详情
+  - V2: [/api/share/detail](./share_detail.md)
 
 ## 2.0 其它 部分
 - 功能：获得app审核信息
