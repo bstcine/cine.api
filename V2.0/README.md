@@ -76,6 +76,18 @@
 ## 2.3 权限 部分
 - 功能: 登录
   - V2: [/api/auth/signin](./Auth_singnin.md) 
+  
+- 功能: 注册
+  - V2: [/api/auth/signup](./auth_singnup.md)
+
+- 功能: 发送验证码(手机 邮箱)
+  - V2: [/api/auth/send/verificationCode](./auth_sendCode.md)
+
+- 功能: 校验验证码(手机 邮箱)
+  - V2: [/api/auth/check/verificationCode](./auth_checkCode.md)
+
+- 功能: 重置密码(手机 邮箱)
+  - V2: [/api/auth/reset/password](./auth_resetPassword.md)
 
 ## 2.4 个人中心 部分  
 - 功能: 用户信息
