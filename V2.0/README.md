@@ -78,7 +78,7 @@
   - V2: [/api/auth/signin](./Auth_singnin.md) 
   
 - 功能: 注册
-  - V2: [/api/auth/signup](./auth_singnup.md)
+  - V2: [/api/auth/signup](./auth_signup.md)
 
 - 功能: 发送验证码(手机 邮箱)
   - V2: [/api/auth/send/verificationCode](./auth_sendCode.md)
