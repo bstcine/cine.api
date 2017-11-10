@@ -19,7 +19,6 @@
         "phone_code":'86'           //国家代码，默认为'86'即中国
         "phone":"183****8311",      //phone,当type 为'1'时，phone为必选参数
         "email":"leo****@bstcne.com", //email,当type 为'2'时，email为必选参数
-        "password":123321, //密码
         "resetPassword":false,  //重置密码时为必选参数['true':重置密码，'false':非重置密码]
         "device":""     //设备信息，可选参数
     }
