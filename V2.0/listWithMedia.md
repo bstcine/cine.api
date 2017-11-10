@@ -53,7 +53,7 @@
                         "short_name": "Introduction",
                         "type": "2",
                         "word_type": null,
-                        "duration": 2518,
+                        "duration": 2518,                    // 此字段数据类型不是固定的数字对象，老鼠记者为字符串
                         "status": "1",
                         "seq": 1,
                         "is_free": "1",
