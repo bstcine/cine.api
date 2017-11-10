@@ -39,6 +39,8 @@
  type_is_null|类型参数为空
  phone_is_null|phone为空
  email_is_null|email为空
+ password_is_null|密码为空
+ auth_code_is_null|验证码为空
  phone_wrong_format|手机号码格式错误
  email_wrong_format|邮箱格式错误
  auth_code_wrong|验证码错误
