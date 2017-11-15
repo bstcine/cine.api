@@ -3,7 +3,8 @@
 * URL: /api/auth/signin
 
 * request
-```{
+```
+{
     "token":"",
     "sitecode": "cine.ios.iphone",
     "channel": "i5", 
