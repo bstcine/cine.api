@@ -13,6 +13,13 @@
         .....       
     }
 }
+sitecode:{
+"苹果手机":"cine.ios.iphone",
+"ipad":"cine.ios.ipad",
+"安卓手机":"cine.android.iphone",
+"安卓平板":"cine.android.pad",
+"pc":'cine.web'
+}
 ```
 
 <br>
