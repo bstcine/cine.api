@@ -11,12 +11,16 @@
     "locale": "zh_CN",
     "appver": "1.1.6",
     "data":{
-        "phone":"18112382052",  //login or email or phone
-        "password":123321,
-        "device_uid":"",    //设备UID,可选参数
-        "device":""         //设备信息,可选参数
+        "phone":"18112382052", 
+        "password":"123321",
+        "device_uid":"",    
+        "device":""        
     }
 }
+
+//phone: login or email or phone
+//设备UID,可选参数
+//设备信息,可选参数
 ```
 
 * response
