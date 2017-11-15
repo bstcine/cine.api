@@ -13,6 +13,9 @@
         .....       
     }
 }
+
+
+注：
 sitecode:{
 "苹果手机":"cine.ios.iphone",
 "ipad":"cine.ios.ipad",
