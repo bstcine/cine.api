@@ -127,8 +127,11 @@
             "total_price": "2980",
             "discount_price": 0,
             "price": "2980",
-            "pay_price": "2980"
-        },
+            "pay_price": "2980",
+            "coupon_discount":"10",
+            "point_discount":"15",
+            "coupon_no":"456789"
+         },
         "pointConvertConstant": "1"
     }
 }
