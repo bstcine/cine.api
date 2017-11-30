@@ -11,13 +11,14 @@
     "locale": "zh_CN",
     "appver": "1.1.6",
     "data":{
-        "cid":"1314",       //lesson_id
-        "duration":123,      //学习时长
-        "type":2,           //分享类型，默认为'2'即学习进度分享
-        "rank":3,           //排名，可选参数
-        "activeShare":'1'   //是否主动打卡，默认为'0'非主动打卡
+        "cid":"1314",       
+        "duration":123,     
+        "type":2,           
+        "rank":3,          
+        "activeShare":"1"  
     }
 }
+
 ```
 
 * response
