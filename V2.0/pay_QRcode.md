@@ -1,6 +1,6 @@
-* 功能: 支付宝二维码支付
+* 功能: 微信二维码支付
 
-* URL: /api/pay/ali/QRcode
+* URL: /api/pay/wechat/QRcode
 
 * request
 ```
