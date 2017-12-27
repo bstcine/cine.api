@@ -27,7 +27,9 @@
 
 - 功能: 首页搜索
   - V2: [/api/content/home/search](./content_search.md)
-  
+
+- 功能: 课程评论
+  - V2: [/api/content/course/comment](./course_comment.md)
 
 ## 2.2 订单 部分
 - 功能: 订单预计算
