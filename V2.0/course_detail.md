@@ -182,7 +182,7 @@
                     "delete_by": null
                 }
             ],
-            "isShared": true,
+            "is_shared": true,
             "last_content_id": "1315",
             "last_content": "Chapter1/Paragraph2"
         }
