@@ -11,9 +11,7 @@
     "locale": "zh_CN",
     "appver": "1.1.6",
     "data":{
-        "cid":"42" ,     //course_id课程ID
-        "order_id":201711061655cVQh8,   //order_id,购买后分享时传递，不传则为课程分享
-        "type":"4"  //分享类型，默认为'4'即课程or订单分享
+        "cid":"d011499154502040BpMKMrPy7K" ,     //share_id分享ID
     }
 }
 ```
