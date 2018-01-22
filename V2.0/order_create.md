@@ -12,7 +12,12 @@
     "appver": "1.1.3",
     "data":{  point,coupon_no,source_id,remark为可选参数
       "cid":"A011466215703591WQYDRNlWxH"
-    }
+      "addressInfo":{
+         "name":"张三"
+         "phone":'13888888888'
+         "address":'宇宙镇地球村'
+     } 
+   }
 }
 ```
 
