@@ -132,6 +132,9 @@
 ## 2.6 消息部分
 - 功能: 消息列表
   - V2:[/api/message/list](./msgList.md)
+  
+- 功能:删除消息
+  - V2:[/api/message/delate](./msgDel.md)
   
 
 ## 2.0 其它 部分
