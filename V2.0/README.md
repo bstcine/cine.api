@@ -7,7 +7,6 @@
 
 - 功能: 课程详情
   - V2: [/api/content/course/detail](./course_detail.md)
-  
 
 
 - 功能: 我的学习列表
@@ -129,10 +128,11 @@
 - 功能: 查看分享详情
   - V2: [/api/share/detail](./share_detail.md)
   
+  
 ## 2.6 消息部分
 - 功能: 消息列表
   - V2:[/api/message/list](./msgList.md)
-
+  
 
 ## 2.0 其它 部分
 - 功能:获得app审核信息
