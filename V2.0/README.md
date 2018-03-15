@@ -128,11 +128,17 @@
 
 - 功能: 查看分享详情
   - V2: [/api/share/detail](./share_detail.md)
+  
+## 2.6 消息部分
+- 功能: 消息列表
+  - V2:[/api/message/list](./msgList.md)
+
 
 ## 2.0 其它 部分
-- 功能：获得app审核信息
+- 功能:获得app审核信息
   - V2: [/api/review/version/info](./general_appInfo.md)
-   
-- 功能: 积分规则
+ 
+ 
+- 功能:积分规则
   - V2: [/api/global/integral/rule](./integral_rule.md)
   
