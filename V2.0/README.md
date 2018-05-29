@@ -115,6 +115,9 @@
 - 功能: 添加优惠券
   - V2: [/api/user/coupon/add](./user_add_coupon.md)
 
+- 功能: 优惠券转让
+  - V2: [/api/user/coupon/transfer](./user_transfer_coupon.md)
+
 ## 2.5 分享 部分 
 - 功能: app分享
   - V2: [/api/share/app](./share_app.md)
