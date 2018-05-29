@@ -93,6 +93,9 @@
 ## 2.4 个人中心 部分  
 - 功能: 用户信息
   - V2: [/api/user/info](./userInfo.md)
+
+- 功能: 查询用户信息，根据login,phone,email
+  - V2: [/api/user/query](./userQuery.md)
   
 - 功能: 修改用户信息
   - V2: [/api/user/profile/modify](./user_modify.md)
