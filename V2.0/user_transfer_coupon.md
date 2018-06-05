@@ -12,7 +12,7 @@
     "appver": "1.1.6",
     "data":{
         "transfer":"", //转让用户ID
-        "coupons":[]  //转让优惠券ID
+        "coupon_no":"",  //转让优惠券券码
     }
 }
 ```
