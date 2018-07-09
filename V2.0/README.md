@@ -7,7 +7,10 @@
 
 - 功能: 课程详情
   - V2: [/api/content/course/detail](./course_detail.md)
+  
 
+- 功能: 我的本周作业
+  - V2: [/api/user/content/task/current](./task_current.md)
 
 - 功能: 我的学习列表
   - V2: [/api/user/content/course/list](./course_mylist.md)
