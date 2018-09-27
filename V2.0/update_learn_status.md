@@ -15,6 +15,7 @@
       "content_id":"1315",
       "status":1,
       "last_tag":3,
+      "last_media_id":'xxxxxxxxxxxxxxx',      
       "last_position":1512,
       "duration":123      
     }
