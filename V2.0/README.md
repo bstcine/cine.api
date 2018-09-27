@@ -27,9 +27,6 @@
 - 功能: 更新课程的学习进度
   - V2: [/api/user/content/course/updateLearnStatus](./update_learn_status.md)
 
-- 功能: 更新课程的播放纪录
-  - V2: [/api/user/content/course/updatePlayLog](./update_play_log.md)
-
 - 功能: 首页搜索
   - V2: [/api/content/home/search](./content_search.md)
 
