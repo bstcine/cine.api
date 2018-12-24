@@ -111,9 +111,7 @@
   
 - 功能: 我的优惠券列表
   - V2: [/api/user/coupon/list](./user_coupon_list.md)
-  
-- 功能: 我的优惠券列表(通过状态获取)
-  - V2: [/api/user/coupon/list](./user_coupon_list_bystatus.md)
+  - V2: [/api/user/coupon/listbystatus](./user_coupon_list_bystatus.md)  (通过状态获取)
   
 - 功能: 我的可用优惠券列表
   - V2: [/api/user/coupon/activeList](./user_active_coupon_list.md)
